@@ -172,7 +172,7 @@ improvement through better query decomposition.
 
 ### 1. Clone and configure
 ```bash
-git clone https://github.com/your-username/heritage-rag.git
+git clone https://github.com/Varsha2002nats/heritage-rag.git
 cd heritage-rag
 ```
 
