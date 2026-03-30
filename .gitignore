@@ -1,0 +1,17 @@
+# Environment
+backend/rag-env/
+backend/venv/
+**/__pycache__/
+*.pyc
+.env
+
+# Data (too large for GitHub)
+data/vectors.json
+data/items.json
+data/chroma_db/
+data/evaluation_results.json
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
